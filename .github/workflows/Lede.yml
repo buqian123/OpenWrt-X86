@@ -25,6 +25,7 @@ on:
           - 'newifi-d1'
           - 'newifi-d2'
           - 'k2p'
+          - 'k2t'
           - 'x86_32'
           - 'x86_64'
           - 'r2c'
